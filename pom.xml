@@ -113,7 +113,7 @@
     </dependencies>
 
     <build>
-        <finalName>cdi-test-demo</finalName>
+        <finalName>books</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
