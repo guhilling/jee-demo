@@ -29,7 +29,7 @@ import de.hilling.cdi.sampleapp.service.BookService;
 @Consumes(MediaType.APPLICATION_JSON)
 public class BookResource {
 
-    private static final Logger LOG = Logger.getLogger(BookResource.class.getName());
+    private static final Logger LOG = Logger.getLogger("de.hilling.books");
 
     @Inject
     private BookService bookService;
