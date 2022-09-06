@@ -69,7 +69,7 @@
         <dependency>
             <groupId>de.hilling.junit.cdi</groupId>
             <artifactId>cdi-test-microprofile</artifactId>
-            <version>3.4.0</version>
+            <version>4.0.1</version>
             <scope>test</scope>
         </dependency>
         <dependency>
